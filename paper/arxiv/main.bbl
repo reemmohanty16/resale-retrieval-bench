@@ -1,0 +1,167 @@
+\begin{thebibliography}{20}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Chia et~al.(2022)Chia, Attanasio, Bianchi, Terragni, Magalh{\~a}es,
+  Goncalves, Greco, and Tagliabue]{chia2022fashionclip}
+Patrick~John Chia, Giuseppe Attanasio, Federico Bianchi, Silvia Terragni,
+  Ana~Rita Magalh{\~a}es, Diogo Goncalves, Ciro Greco, and Jacopo Tagliabue.
+\newblock Contrastive language and vision learning of general fashion concepts.
+\newblock \emph{Scientific Reports}, 12\penalty0 (18958), 2022.
+
+\bibitem[Gao et~al.(2026)Gao, Xue, Fu, Gu, Li, and Zhou]{gao2026lookbench}
+Chao Gao, Siqiao Xue, Jiwen Fu, Tingyi Gu, Shanshan Li, and Fan Zhou.
+\newblock {LookBench}: A live and holistic open benchmark for fashion image
+  retrieval.
+\newblock \emph{arXiv preprint arXiv:2601.14706}, 2026.
+
+\bibitem[Ge et~al.(2019)Ge, Zhang, Wang, Tang, and Luo]{ge2019deepfashion2}
+Yuying Ge, Ruimao Zhang, Xiaogang Wang, Xiaoou Tang, and Ping Luo.
+\newblock {DeepFashion2}: A versatile benchmark for detection, pose estimation,
+  segmentation and re-identification of clothing images.
+\newblock In \emph{IEEE/CVF Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, pages 5337--5345, 2019.
+
+\bibitem[Han et~al.(2017)Han, Wu, Huang, Zhang, Zhu, Li, Zhao, and
+  Davis]{han2017fashion200k}
+Xintong Han, Zuxuan Wu, Phoenix~X. Huang, Xiao Zhang, Menglong Zhu, Yuan Li,
+  Yang Zhao, and Larry~S. Davis.
+\newblock Automatic spatially-aware fashion concept discovery.
+\newblock In \emph{IEEE International Conference on Computer Vision (ICCV)},
+  pages 1472--1480, 2017.
+
+\bibitem[Huang et~al.(2015)Huang, Feris, Chen, and Yan]{huang2015darn}
+Junshi Huang, Rogerio~S. Feris, Qiang Chen, and Shuicheng Yan.
+\newblock Cross-domain image retrieval with a dual attribute-aware ranking
+  network.
+\newblock In \emph{IEEE International Conference on Computer Vision (ICCV)},
+  pages 1062--1070, 2015.
+
+\bibitem[Ilharco et~al.(2021)Ilharco, Wortsman, Wightman, Gordon, Carlini,
+  Taori, Dave, Shankar, Namkoong, Miller, Hajishirzi, Farhadi, and
+  Schmidt]{ilharco2021openclip}
+Gabriel Ilharco, Mitchell Wortsman, Ross Wightman, Cade Gordon, Nicholas
+  Carlini, Rohan Taori, Achal Dave, Vaishaal Shankar, Hongseok Namkoong, John
+  Miller, Hannaneh Hajishirzi, Ali Farhadi, and Ludwig Schmidt.
+\newblock {OpenCLIP}.
+\newblock \url{https://doi.org/10.5281/zenodo.5143773}, 2021.
+
+\bibitem[Kiapour et~al.(2015)Kiapour, Han, Lazebnik, Berg, and
+  Berg]{kiapour2015where}
+M.~Hadi Kiapour, Xufeng Han, Svetlana Lazebnik, Alexander~C. Berg, and
+  Tamara~L. Berg.
+\newblock Where to buy it: Matching street clothing photos in online shops.
+\newblock In \emph{IEEE International Conference on Computer Vision (ICCV)},
+  pages 3343--3351, 2015.
+
+\bibitem[Kuang et~al.(2019)Kuang, Gao, Li, Luo, Chen, Lin, and
+  Zhang]{kuang2019grnet}
+Zhanghui Kuang, Yiming Gao, Guanbin Li, Ping Luo, Yimin Chen, Liang Lin, and
+  Wayne Zhang.
+\newblock Fashion retrieval via graph reasoning networks on a similarity
+  pyramid.
+\newblock In \emph{IEEE/CVF International Conference on Computer Vision
+  (ICCV)}, pages 3066--3075, 2019.
+
+\bibitem[Liu et~al.(2012)Liu, Song, Liu, Xu, Lu, and Yan]{liu2012street}
+Si~Liu, Zheng Song, Guangcan Liu, Changsheng Xu, Hanqing Lu, and Shuicheng Yan.
+\newblock Street-to-shop: Cross-scenario clothing retrieval via parts alignment
+  and auxiliary set.
+\newblock In \emph{IEEE Conference on Computer Vision and Pattern Recognition
+  (CVPR)}, pages 3330--3337, 2012.
+
+\bibitem[Liu et~al.(2016)Liu, Luo, Qiu, Wang, and Tang]{liu2016deepfashion}
+Ziwei Liu, Ping Luo, Shi Qiu, Xiaogang Wang, and Xiaoou Tang.
+\newblock {DeepFashion}: Powering robust clothes recognition and retrieval with
+  rich annotations.
+\newblock In \emph{IEEE Conference on Computer Vision and Pattern Recognition
+  (CVPR)}, pages 1096--1104, 2016.
+
+\bibitem[{Marqo}(2024)]{marqo2024fashion}
+{Marqo}.
+\newblock {Marqo-FashionCLIP} and {Marqo-FashionSigLIP}: state-of-the-art
+  embedding models for fashion search.
+\newblock \url{https://huggingface.co/Marqo/marqo-fashionSigLIP}, 2024.
+\newblock Model cards and technical blog post, accessed November 2026.
+
+\bibitem[Oquab et~al.(2024)Oquab, Darcet, Moutakanni, Vo, Szafraniec, Khalidov,
+  Fernandez, Haziza, Massa, El-Nouby, Assran, Ballas, Galuba, Howes, Huang, Li,
+  Misra, Rabbat, Sharma, Synnaeve, Xu, J{\'e}gou, Mairal, Labatut, Joulin, and
+  Bojanowski]{oquab2024dinov2}
+Maxime Oquab, Timoth{\'e}e Darcet, Th{\'e}o Moutakanni, Huy~V. Vo, Marc
+  Szafraniec, Vasil Khalidov, Pierre Fernandez, Daniel Haziza, Francisco Massa,
+  Alaaeldin El-Nouby, Mahmoud Assran, Nicolas Ballas, Wojciech Galuba, Russell
+  Howes, Po-Yao Huang, Shang-Wen Li, Ishan Misra, Michael Rabbat, Vasu Sharma,
+  Gabriel Synnaeve, Hu~Xu, Herv{\'e} J{\'e}gou, Julien Mairal, Patrick Labatut,
+  Armand Joulin, and Piotr Bojanowski.
+\newblock {DINOv2}: Learning robust visual features without supervision.
+\newblock \emph{Transactions on Machine Learning Research}, 2024.
+
+\bibitem[Radford et~al.(2021)Radford, Kim, Hallacy, Ramesh, Goh, Agarwal,
+  Sastry, Askell, Mishkin, Clark, Krueger, and Sutskever]{radford2021clip}
+Alec Radford, Jong~Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh,
+  Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark,
+  Gretchen Krueger, and Ilya Sutskever.
+\newblock Learning transferable visual models from natural language
+  supervision.
+\newblock In \emph{International Conference on Machine Learning (ICML)}, pages
+  8748--8763, 2021.
+
+\bibitem[Shen et~al.(2018)Shen, Xiao, Li, Yi, and Wang]{shen2018kpm}
+Yantao Shen, Tong Xiao, Hongsheng Li, Shuai Yi, and Xiaogang Wang.
+\newblock End-to-end deep kronecker-product matching for person
+  re-identification.
+\newblock In \emph{IEEE/CVF Conference on Computer Vision and Pattern
+  Recognition (CVPR)}, pages 6886--6895, 2018.
+
+\bibitem[{ThredUp} and {GlobalData}(2026)]{thredup2026}
+{ThredUp} and {GlobalData}.
+\newblock {ThredUp} 2026 resale report.
+\newblock \url{https://www.thredup.com/resale}, 2026.
+\newblock 14th annual report, April 2026.
+
+\bibitem[Tschannen et~al.(2025)Tschannen, Gritsenko, Wang, Naeem,
+  Alabdulmohsin, Parthasarathy, Evans, Beyer, Xia, Mustafa, H{\'e}naff,
+  Harmsen, Steiner, and Zhai]{tschannen2025siglip2}
+Michael Tschannen, Alexey Gritsenko, Xiao Wang, Muhammad~Ferjad Naeem, Ibrahim
+  Alabdulmohsin, Nikhil Parthasarathy, Talfan Evans, Lucas Beyer, Ye~Xia, Basil
+  Mustafa, Olivier H{\'e}naff, Jeremiah Harmsen, Andreas Steiner, and Xiaohua
+  Zhai.
+\newblock {SigLIP 2}: Multilingual vision-language encoders with improved
+  semantic understanding, localization, and dense features.
+\newblock \emph{arXiv preprint arXiv:2502.14786}, 2025.
+
+\bibitem[Wang et~al.(2017)Wang, Gu, Zhang, Zhou, and Gu]{wang2017vam}
+Zhonghao Wang, Yujun Gu, Ya~Zhang, Jun Zhou, and Xiao Gu.
+\newblock Clothing retrieval with visual attention model.
+\newblock In \emph{IEEE Visual Communications and Image Processing (VCIP)},
+  2017.
+
+\bibitem[Wolf et~al.(2020)Wolf, Debut, Sanh, Chaumond, Delangue, Moi, Cistac,
+  Rault, Louf, Funtowicz, Davison, Shleifer, von Platen, Ma, Jernite, Plu, Xu,
+  Scao, Gugger, Drame, Lhoest, and Rush]{wolf2020transformers}
+Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue,
+  Anthony Moi, Pierric Cistac, Tim Rault, R{\'e}mi Louf, Morgan Funtowicz, Joe
+  Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien
+  Plu, Canwen Xu, Teven~Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest,
+  and Alexander~M. Rush.
+\newblock Transformers: State-of-the-art natural language processing.
+\newblock In \emph{Conference on Empirical Methods in Natural Language
+  Processing: System Demonstrations}, pages 38--45, 2020.
+
+\bibitem[Xuan et~al.(2018)Xuan, Souvenir, and Pless]{xuan2018dreml}
+Hong Xuan, Richard Souvenir, and Robert Pless.
+\newblock Deep randomized ensembles for metric learning.
+\newblock In \emph{European Conference on Computer Vision (ECCV)}, pages
+  723--734, 2018.
+
+\bibitem[Zhai et~al.(2023)Zhai, Mustafa, Kolesnikov, and Beyer]{zhai2023siglip}
+Xiaohua Zhai, Basil Mustafa, Alexander Kolesnikov, and Lucas Beyer.
+\newblock Sigmoid loss for language image pre-training.
+\newblock In \emph{IEEE/CVF International Conference on Computer Vision
+  (ICCV)}, pages 11975--11986, 2023.
+
+\end{thebibliography}

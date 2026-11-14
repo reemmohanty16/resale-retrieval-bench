@@ -1,0 +1,20 @@
+TITLE
+The Photo Gap: How Much Retrieval Accuracy Consumer Photographs Cost Zero-Shot Fashion Encoders
+
+AUTHORS
+Reem Mohanty (Glo AI Inc.)
+
+ABSTRACT (1695 chars; arXiv limit 1920)
+Matching a garment to its catalog entry from a photograph is a routine component of visual search, styling and resale products, and in practice it is built on an image encoder used as released, without task-specific training. Such systems are tuned and demonstrated on catalog imagery, yet the photographs they receive from users are taken on phones, in homes, by people. We measure what that difference costs. Seven publicly released encoders—CLIP ViT-B/32, CLIP ViT-L/14, SigLIP ViT-B/16, FashionCLIP, Marqo-FashionCLIP, Marqo-FashionSigLIP and DINOv2—are evaluated zero-shot on the DeepFashion Consumer-to-Shop benchmark: 47,434 consumer photographs queried against 22,669 catalog images of 16,941 items. Recall@10 ranges from 7.9% to 46.6%. To separate the difficulty of the photograph from the difficulty of the item, we add a control in which catalog images of the same 4,152 garments serve as queries against the same gallery. On identical items the best encoder reaches 75.7% Recall@10 from a catalog query and 50.5% from a consumer query; we call the 25-point difference the photo gap. For the other vision-language encoders the gap is 29–40 points, and for DINOv2 it is 45. Three further observations order the options available to a practitioner: the pretraining recipe of the base model is worth as much as fashion fine-tuning (a general SigLIP ViT-B/16 matches the fashion-tuned Marqo-FashionCLIP); model scale buys little (CLIP ViT-L/14 improves on ViT-B/32 by 1.7 points of Recall@1); cropping to the garment recovers about a quarter of the gap; and lower-body garments are retrieved at half the rate of tops and dresses by every model. Code reproducing every figure is released.
+
+COMMENTS
+9 pages, 3 figures, 5 tables. Code and results: https://github.com/reemmohanty16/resale-retrieval-bench
+
+PRIMARY CATEGORY
+cs.CV (Computer Vision and Pattern Recognition)
+
+CROSS-LIST
+cs.IR (Information Retrieval)
+
+LICENSE
+CC BY 4.0 (recommended; keeps the paper reusable and is the common choice for benchmark papers). Alternative: arXiv non-exclusive license.

@@ -3,3 +3,13 @@ __pycache__/
 out/
 *.npy
 .DS_Store
+paper/arxiv/png/
+paper/arxiv/arxiv_submission/
+paper/arxiv/*.aux
+paper/arxiv/*.log
+paper/arxiv/*.out
+paper/arxiv/*.fls
+paper/arxiv/*.fdb_latexmk
+paper/arxiv/*.blg
+paper/arxiv/build.log
+paper/arxiv/photo-gap-arxiv-source.zip
