@@ -2,7 +2,7 @@
 
 **Working title:** The Photo Gap: How Zero-Shot Vision-Language Embeddings Degrade on Consumer Garment Photos, and What It Means for Secondhand Fashion Search
 
-**Author:** Reem Mohanty (Banabre / Glo AI Inc.)
+**Author:** Reem Mohanty (Glo AI Inc. / Bannabre)
 
 **Target venues:** arXiv (cs.CV, cs.IR) first; then a fashion/retail workshop at CVPR or RecSys; a practitioner version for Towards Data Science.
 
